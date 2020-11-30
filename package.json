@@ -1,0 +1,13 @@
+{
+  "name": "sistemaescolarv4",
+  "version": "1.0.0",
+  "description": "Es un sistema escolar version 4",
+  "main": "index.js",
+  "repository": "https://github.com/VenturaRodolfo/sistemaescolarv4.git",
+  "author": "VenturaRodolfo <71725994+VenturaRodolfo@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "bulma": "^0.9.1"
+  }
+}

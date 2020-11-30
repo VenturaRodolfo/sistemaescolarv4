@@ -1,0 +1,17 @@
+{
+    "name": "fitov/sistemaescolarv4",
+    "description": "es un sisteme escolar v4",
+    "type": "project",
+    "authors": [
+        {
+            "name": "VenturaRodolfo",
+            "email": "71725994+VenturaRodolfo@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.16",
+        "illuminate/events": "^8.16",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.2"
+    }
+}

@@ -12,7 +12,7 @@ if ($conn->connect_error) {
 }
 
 // Create database
-$sql = "CREATE DATABASE escuelav3";
+$sql = "CREATE DATABASE escuelav4";
 if ($conn->query($sql) === TRUE) {
     echo "Database created successfully
             <br><br>";
